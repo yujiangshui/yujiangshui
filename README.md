@@ -2,7 +2,7 @@
 
 I'm Harry Yu.
 
-Living in NZ, work as a full stack developer (React family, Node.js, Ruby, GraphQL, etc).
+Live in NZ, work as a full stack developer (React family, Node.js, Ruby, GraphQL, etc).
 
 Worked at Alibaba, and worked on the [ICE](https://github.com/alibaba/ice) project as the PM.
 
